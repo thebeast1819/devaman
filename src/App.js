@@ -8,7 +8,7 @@ function App() {
 
   return (
     <Router>
-      <div className="App" id={load ? "no-scroll" : "scroll"}>
+      <div className="App" >
         <Navbar />
       </div>
     </Router>
